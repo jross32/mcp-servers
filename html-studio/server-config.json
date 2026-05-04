@@ -1,0 +1,11 @@
+{
+  "name": "html-studio",
+  "version": "0.2.0",
+  "port": 11021,
+  "domainLabel": "html studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

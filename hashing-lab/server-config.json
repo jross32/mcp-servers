@@ -1,0 +1,11 @@
+{
+  "name": "hashing-lab",
+  "version": "0.2.0",
+  "port": 11039,
+  "domainLabel": "hashing lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

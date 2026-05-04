@@ -1,0 +1,11 @@
+{
+  "name": "xml-lab",
+  "version": "0.2.0",
+  "port": 11029,
+  "domainLabel": "xml lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

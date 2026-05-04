@@ -1,0 +1,11 @@
+{
+  "name": "json-forge",
+  "version": "0.2.0",
+  "port": 11007,
+  "domainLabel": "json forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

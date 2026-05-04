@@ -1,0 +1,11 @@
+{
+  "name": "summary-studio",
+  "version": "0.2.0",
+  "port": 11096,
+  "domainLabel": "summary studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

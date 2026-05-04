@@ -1,0 +1,11 @@
+{
+  "name": "workflow-studio",
+  "version": "0.2.0",
+  "port": 11066,
+  "domainLabel": "workflow studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

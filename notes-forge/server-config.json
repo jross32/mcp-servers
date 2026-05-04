@@ -1,0 +1,11 @@
+{
+  "name": "notes-forge",
+  "version": "0.2.0",
+  "port": 11092,
+  "domainLabel": "notes forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

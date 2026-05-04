@@ -1,0 +1,11 @@
+{
+  "name": "json-ops",
+  "version": "0.2.0",
+  "port": 11008,
+  "domainLabel": "json ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

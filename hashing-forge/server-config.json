@@ -1,0 +1,11 @@
+{
+  "name": "hashing-forge",
+  "version": "0.2.0",
+  "port": 11037,
+  "domainLabel": "hashing forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "planning-forge",
+  "version": "0.2.0",
+  "port": 11072,
+  "domainLabel": "planning forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

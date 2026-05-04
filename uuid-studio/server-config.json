@@ -1,0 +1,11 @@
+{
+  "name": "uuid-studio",
+  "version": "0.2.0",
+  "port": 11046,
+  "domainLabel": "uuid studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

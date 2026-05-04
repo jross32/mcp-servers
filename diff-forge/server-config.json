@@ -1,0 +1,11 @@
+{
+  "name": "diff-forge",
+  "version": "0.2.0",
+  "port": 11082,
+  "domainLabel": "diff forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

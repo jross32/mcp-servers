@@ -1,0 +1,11 @@
+{
+  "name": "prompt-lab",
+  "version": "0.2.0",
+  "port": 11064,
+  "domainLabel": "prompt lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

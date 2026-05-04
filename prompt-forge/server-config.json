@@ -1,0 +1,11 @@
+{
+  "name": "prompt-forge",
+  "version": "0.2.0",
+  "port": 11062,
+  "domainLabel": "prompt forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

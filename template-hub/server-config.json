@@ -1,0 +1,11 @@
+{
+  "name": "template-hub",
+  "version": "0.2.0",
+  "port": 11090,
+  "domainLabel": "template hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

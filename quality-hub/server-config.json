@@ -1,0 +1,11 @@
+{
+  "name": "quality-hub",
+  "version": "0.2.0",
+  "port": 11080,
+  "domainLabel": "quality hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

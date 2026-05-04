@@ -1,0 +1,11 @@
+{
+  "name": "workflow-forge",
+  "version": "0.2.0",
+  "port": 11067,
+  "domainLabel": "workflow forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

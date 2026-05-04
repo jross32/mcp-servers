@@ -1,0 +1,11 @@
+{
+  "name": "template-lab",
+  "version": "0.2.0",
+  "port": 11089,
+  "domainLabel": "template lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

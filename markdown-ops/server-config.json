@@ -1,0 +1,11 @@
+{
+  "name": "markdown-ops",
+  "version": "0.2.0",
+  "port": 11018,
+  "domainLabel": "markdown ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

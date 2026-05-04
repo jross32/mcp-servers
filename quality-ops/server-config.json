@@ -1,0 +1,11 @@
+{
+  "name": "quality-ops",
+  "version": "0.2.0",
+  "port": 11078,
+  "domainLabel": "quality ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

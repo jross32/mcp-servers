@@ -1,0 +1,11 @@
+{
+  "name": "notes-lab",
+  "version": "0.2.0",
+  "port": 11094,
+  "domainLabel": "notes lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

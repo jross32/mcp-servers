@@ -1,0 +1,11 @@
+{
+  "name": "json-lab",
+  "version": "0.2.0",
+  "port": 11009,
+  "domainLabel": "json lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

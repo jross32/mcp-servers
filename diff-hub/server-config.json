@@ -1,0 +1,11 @@
+{
+  "name": "diff-hub",
+  "version": "0.2.0",
+  "port": 11085,
+  "domainLabel": "diff hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

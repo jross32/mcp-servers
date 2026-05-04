@@ -1,0 +1,11 @@
+{
+  "name": "json-studio",
+  "version": "0.2.0",
+  "port": 11006,
+  "domainLabel": "json studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

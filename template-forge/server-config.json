@@ -1,0 +1,11 @@
+{
+  "name": "template-forge",
+  "version": "0.2.0",
+  "port": 11087,
+  "domainLabel": "template forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

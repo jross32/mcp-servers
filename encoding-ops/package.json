@@ -1,0 +1,10 @@
+{
+  "name": "encoding-ops",
+  "version": "0.2.0",
+  "private": true,
+  "main": "mcp-server.js",
+  "scripts": {
+    "start": "node mcp-server.js",
+    "start:http": "set MCP_HTTP_ONLY=1&& node mcp-server.js"
+  }
+}

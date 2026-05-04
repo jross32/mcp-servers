@@ -1,0 +1,11 @@
+{
+  "name": "regex-hub",
+  "version": "0.2.0",
+  "port": 11035,
+  "domainLabel": "regex hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

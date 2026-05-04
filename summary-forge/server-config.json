@@ -1,0 +1,11 @@
+{
+  "name": "summary-forge",
+  "version": "0.2.0",
+  "port": 11097,
+  "domainLabel": "summary forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

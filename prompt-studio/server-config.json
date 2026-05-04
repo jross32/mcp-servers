@@ -1,0 +1,11 @@
+{
+  "name": "prompt-studio",
+  "version": "0.2.0",
+  "port": 11061,
+  "domainLabel": "prompt studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

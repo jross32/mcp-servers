@@ -1,0 +1,11 @@
+{
+  "name": "quality-forge",
+  "version": "0.2.0",
+  "port": 11077,
+  "domainLabel": "quality forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

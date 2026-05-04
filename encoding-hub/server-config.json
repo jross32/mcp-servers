@@ -1,0 +1,11 @@
+{
+  "name": "encoding-hub",
+  "version": "0.2.0",
+  "port": 11045,
+  "domainLabel": "encoding hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

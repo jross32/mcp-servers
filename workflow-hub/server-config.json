@@ -1,0 +1,11 @@
+{
+  "name": "workflow-hub",
+  "version": "0.2.0",
+  "port": 11070,
+  "domainLabel": "workflow hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

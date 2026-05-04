@@ -1,0 +1,11 @@
+{
+  "name": "csv-ops",
+  "version": "0.2.0",
+  "port": 11013,
+  "domainLabel": "csv ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

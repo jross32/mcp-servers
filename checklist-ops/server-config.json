@@ -1,0 +1,11 @@
+{
+  "name": "checklist-ops",
+  "version": "0.2.0",
+  "port": 11058,
+  "domainLabel": "checklist ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

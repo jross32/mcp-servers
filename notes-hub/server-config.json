@@ -1,0 +1,11 @@
+{
+  "name": "notes-hub",
+  "version": "0.2.0",
+  "port": 11095,
+  "domainLabel": "notes hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

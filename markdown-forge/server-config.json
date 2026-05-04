@@ -1,0 +1,11 @@
+{
+  "name": "markdown-forge",
+  "version": "0.2.0",
+  "port": 11017,
+  "domainLabel": "markdown forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

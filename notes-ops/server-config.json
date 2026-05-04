@@ -1,0 +1,11 @@
+{
+  "name": "notes-ops",
+  "version": "0.2.0",
+  "port": 11093,
+  "domainLabel": "notes ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

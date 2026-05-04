@@ -1,0 +1,11 @@
+{
+  "name": "diff-lab",
+  "version": "0.2.0",
+  "port": 11084,
+  "domainLabel": "diff lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

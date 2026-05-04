@@ -1,0 +1,11 @@
+{
+  "name": "uuid-ops",
+  "version": "0.2.0",
+  "port": 11048,
+  "domainLabel": "uuid ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

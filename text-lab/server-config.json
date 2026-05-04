@@ -1,0 +1,11 @@
+{
+  "name": "text-lab",
+  "version": "0.2.0",
+  "port": 11004,
+  "domainLabel": "text lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

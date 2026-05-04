@@ -1,0 +1,11 @@
+{
+  "name": "csv-studio",
+  "version": "0.2.0",
+  "port": 11011,
+  "domainLabel": "csv studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

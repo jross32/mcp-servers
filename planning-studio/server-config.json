@@ -1,0 +1,11 @@
+{
+  "name": "planning-studio",
+  "version": "0.2.0",
+  "port": 11071,
+  "domainLabel": "planning studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

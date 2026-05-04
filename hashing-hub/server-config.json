@@ -1,0 +1,11 @@
+{
+  "name": "hashing-hub",
+  "version": "0.2.0",
+  "port": 11040,
+  "domainLabel": "hashing hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

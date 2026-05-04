@@ -1,0 +1,11 @@
+{
+  "name": "workflow-ops",
+  "version": "0.2.0",
+  "port": 11068,
+  "domainLabel": "workflow ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

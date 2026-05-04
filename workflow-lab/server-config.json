@@ -1,0 +1,11 @@
+{
+  "name": "workflow-lab",
+  "version": "0.2.0",
+  "port": 11069,
+  "domainLabel": "workflow lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

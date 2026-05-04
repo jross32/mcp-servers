@@ -1,0 +1,11 @@
+{
+  "name": "encoding-forge",
+  "version": "0.2.0",
+  "port": 11042,
+  "domainLabel": "encoding forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

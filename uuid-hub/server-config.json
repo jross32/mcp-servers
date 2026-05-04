@@ -1,0 +1,11 @@
+{
+  "name": "uuid-hub",
+  "version": "0.2.0",
+  "port": 11050,
+  "domainLabel": "uuid hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

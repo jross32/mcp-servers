@@ -1,0 +1,11 @@
+{
+  "name": "checklist-forge",
+  "version": "0.2.0",
+  "port": 11057,
+  "domainLabel": "checklist forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

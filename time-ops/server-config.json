@@ -1,0 +1,11 @@
+{
+  "name": "time-ops",
+  "version": "0.2.0",
+  "port": 11053,
+  "domainLabel": "time ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

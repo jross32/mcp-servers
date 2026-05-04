@@ -1,0 +1,11 @@
+{
+  "name": "planning-ops",
+  "version": "0.2.0",
+  "port": 11073,
+  "domainLabel": "planning ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

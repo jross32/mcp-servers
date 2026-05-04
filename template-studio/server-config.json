@@ -1,0 +1,11 @@
+{
+  "name": "template-studio",
+  "version": "0.2.0",
+  "port": 11086,
+  "domainLabel": "template studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

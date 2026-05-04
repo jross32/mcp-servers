@@ -1,0 +1,11 @@
+{
+  "name": "prompt-ops",
+  "version": "0.2.0",
+  "port": 11063,
+  "domainLabel": "prompt ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

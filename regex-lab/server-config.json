@@ -1,0 +1,11 @@
+{
+  "name": "regex-lab",
+  "version": "0.2.0",
+  "port": 11034,
+  "domainLabel": "regex lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

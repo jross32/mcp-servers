@@ -1,0 +1,11 @@
+{
+  "name": "regex-ops",
+  "version": "0.2.0",
+  "port": 11033,
+  "domainLabel": "regex ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

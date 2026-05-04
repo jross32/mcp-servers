@@ -1,0 +1,11 @@
+{
+  "name": "regex-studio",
+  "version": "0.2.0",
+  "port": 11031,
+  "domainLabel": "regex studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

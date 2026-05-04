@@ -1,0 +1,11 @@
+{
+  "name": "html-hub",
+  "version": "0.2.0",
+  "port": 11025,
+  "domainLabel": "html hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

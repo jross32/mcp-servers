@@ -1,0 +1,11 @@
+{
+  "name": "checklist-lab",
+  "version": "0.2.0",
+  "port": 11059,
+  "domainLabel": "checklist lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

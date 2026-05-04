@@ -1,0 +1,11 @@
+{
+  "name": "encoding-ops",
+  "version": "0.2.0",
+  "port": 11043,
+  "domainLabel": "encoding ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

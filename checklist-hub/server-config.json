@@ -1,0 +1,11 @@
+{
+  "name": "checklist-hub",
+  "version": "0.2.0",
+  "port": 11060,
+  "domainLabel": "checklist hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "text-studio",
+    "version": "0.2.0",
+    "port": 11001,
+    "domainLabel": "text studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\text-studio"
+  },
+  {
+    "name": "text-forge",
+    "version": "0.2.0",
+    "port": 11002,
+    "domainLabel": "text forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\text-forge"
+  },
+  {
+    "name": "text-ops",
+    "version": "0.2.0",
+    "port": 11003,
+    "domainLabel": "text ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\text-ops"
+  },
+  {
+    "name": "text-lab",
+    "version": "0.2.0",
+    "port": 11004,
+    "domainLabel": "text lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\text-lab"
+  },
+  {
+    "name": "text-hub",
+    "version": "0.2.0",
+    "port": 11005,
+    "domainLabel": "text hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\text-hub"
+  },
+  {
+    "name": "json-studio",
+    "version": "0.2.0",
+    "port": 11006,
+    "domainLabel": "json studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\json-studio"
+  },
+  {
+    "name": "json-forge",
+    "version": "0.2.0",
+    "port": 11007,
+    "domainLabel": "json forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\json-forge"
+  },
+  {
+    "name": "json-ops",
+    "version": "0.2.0",
+    "port": 11008,
+    "domainLabel": "json ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\json-ops"
+  },
+  {
+    "name": "json-lab",
+    "version": "0.2.0",
+    "port": 11009,
+    "domainLabel": "json lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\json-lab"
+  },
+  {
+    "name": "json-hub",
+    "version": "0.2.0",
+    "port": 11010,
+    "domainLabel": "json hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\json-hub"
+  },
+  {
+    "name": "csv-studio",
+    "version": "0.2.0",
+    "port": 11011,
+    "domainLabel": "csv studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\csv-studio"
+  },
+  {
+    "name": "csv-forge",
+    "version": "0.2.0",
+    "port": 11012,
+    "domainLabel": "csv forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\csv-forge"
+  },
+  {
+    "name": "csv-ops",
+    "version": "0.2.0",
+    "port": 11013,
+    "domainLabel": "csv ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\csv-ops"
+  },
+  {
+    "name": "csv-lab",
+    "version": "0.2.0",
+    "port": 11014,
+    "domainLabel": "csv lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\csv-lab"
+  },
+  {
+    "name": "csv-hub",
+    "version": "0.2.0",
+    "port": 11015,
+    "domainLabel": "csv hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\csv-hub"
+  },
+  {
+    "name": "markdown-studio",
+    "version": "0.2.0",
+    "port": 11016,
+    "domainLabel": "markdown studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\markdown-studio"
+  },
+  {
+    "name": "markdown-forge",
+    "version": "0.2.0",
+    "port": 11017,
+    "domainLabel": "markdown forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\markdown-forge"
+  },
+  {
+    "name": "markdown-ops",
+    "version": "0.2.0",
+    "port": 11018,
+    "domainLabel": "markdown ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\markdown-ops"
+  },
+  {
+    "name": "markdown-lab",
+    "version": "0.2.0",
+    "port": 11019,
+    "domainLabel": "markdown lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\markdown-lab"
+  },
+  {
+    "name": "markdown-hub",
+    "version": "0.2.0",
+    "port": 11020,
+    "domainLabel": "markdown hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\markdown-hub"
+  },
+  {
+    "name": "html-studio",
+    "version": "0.2.0",
+    "port": 11021,
+    "domainLabel": "html studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\html-studio"
+  },
+  {
+    "name": "html-forge",
+    "version": "0.2.0",
+    "port": 11022,
+    "domainLabel": "html forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\html-forge"
+  },
+  {
+    "name": "html-ops",
+    "version": "0.2.0",
+    "port": 11023,
+    "domainLabel": "html ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\html-ops"
+  },
+  {
+    "name": "html-lab",
+    "version": "0.2.0",
+    "port": 11024,
+    "domainLabel": "html lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\html-lab"
+  },
+  {
+    "name": "html-hub",
+    "version": "0.2.0",
+    "port": 11025,
+    "domainLabel": "html hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\html-hub"
+  },
+  {
+    "name": "xml-studio",
+    "version": "0.2.0",
+    "port": 11026,
+    "domainLabel": "xml studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\xml-studio"
+  },
+  {
+    "name": "xml-forge",
+    "version": "0.2.0",
+    "port": 11027,
+    "domainLabel": "xml forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\xml-forge"
+  },
+  {
+    "name": "xml-ops",
+    "version": "0.2.0",
+    "port": 11028,
+    "domainLabel": "xml ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\xml-ops"
+  },
+  {
+    "name": "xml-lab",
+    "version": "0.2.0",
+    "port": 11029,
+    "domainLabel": "xml lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\xml-lab"
+  },
+  {
+    "name": "xml-hub",
+    "version": "0.2.0",
+    "port": 11030,
+    "domainLabel": "xml hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\xml-hub"
+  },
+  {
+    "name": "regex-studio",
+    "version": "0.2.0",
+    "port": 11031,
+    "domainLabel": "regex studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\regex-studio"
+  },
+  {
+    "name": "regex-forge",
+    "version": "0.2.0",
+    "port": 11032,
+    "domainLabel": "regex forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\regex-forge"
+  },
+  {
+    "name": "regex-ops",
+    "version": "0.2.0",
+    "port": 11033,
+    "domainLabel": "regex ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\regex-ops"
+  },
+  {
+    "name": "regex-lab",
+    "version": "0.2.0",
+    "port": 11034,
+    "domainLabel": "regex lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\regex-lab"
+  },
+  {
+    "name": "regex-hub",
+    "version": "0.2.0",
+    "port": 11035,
+    "domainLabel": "regex hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\regex-hub"
+  },
+  {
+    "name": "hashing-studio",
+    "version": "0.2.0",
+    "port": 11036,
+    "domainLabel": "hashing studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\hashing-studio"
+  },
+  {
+    "name": "hashing-forge",
+    "version": "0.2.0",
+    "port": 11037,
+    "domainLabel": "hashing forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\hashing-forge"
+  },
+  {
+    "name": "hashing-ops",
+    "version": "0.2.0",
+    "port": 11038,
+    "domainLabel": "hashing ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\hashing-ops"
+  },
+  {
+    "name": "hashing-lab",
+    "version": "0.2.0",
+    "port": 11039,
+    "domainLabel": "hashing lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\hashing-lab"
+  },
+  {
+    "name": "hashing-hub",
+    "version": "0.2.0",
+    "port": 11040,
+    "domainLabel": "hashing hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\hashing-hub"
+  },
+  {
+    "name": "encoding-studio",
+    "version": "0.2.0",
+    "port": 11041,
+    "domainLabel": "encoding studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\encoding-studio"
+  },
+  {
+    "name": "encoding-forge",
+    "version": "0.2.0",
+    "port": 11042,
+    "domainLabel": "encoding forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\encoding-forge"
+  },
+  {
+    "name": "encoding-ops",
+    "version": "0.2.0",
+    "port": 11043,
+    "domainLabel": "encoding ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\encoding-ops"
+  },
+  {
+    "name": "encoding-lab",
+    "version": "0.2.0",
+    "port": 11044,
+    "domainLabel": "encoding lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\encoding-lab"
+  },
+  {
+    "name": "encoding-hub",
+    "version": "0.2.0",
+    "port": 11045,
+    "domainLabel": "encoding hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\encoding-hub"
+  },
+  {
+    "name": "uuid-studio",
+    "version": "0.2.0",
+    "port": 11046,
+    "domainLabel": "uuid studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\uuid-studio"
+  },
+  {
+    "name": "uuid-forge",
+    "version": "0.2.0",
+    "port": 11047,
+    "domainLabel": "uuid forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\uuid-forge"
+  },
+  {
+    "name": "uuid-ops",
+    "version": "0.2.0",
+    "port": 11048,
+    "domainLabel": "uuid ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\uuid-ops"
+  },
+  {
+    "name": "uuid-lab",
+    "version": "0.2.0",
+    "port": 11049,
+    "domainLabel": "uuid lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\uuid-lab"
+  },
+  {
+    "name": "uuid-hub",
+    "version": "0.2.0",
+    "port": 11050,
+    "domainLabel": "uuid hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\uuid-hub"
+  },
+  {
+    "name": "time-studio",
+    "version": "0.2.0",
+    "port": 11051,
+    "domainLabel": "time studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\time-studio"
+  },
+  {
+    "name": "time-forge",
+    "version": "0.2.0",
+    "port": 11052,
+    "domainLabel": "time forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\time-forge"
+  },
+  {
+    "name": "time-ops",
+    "version": "0.2.0",
+    "port": 11053,
+    "domainLabel": "time ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\time-ops"
+  },
+  {
+    "name": "time-lab",
+    "version": "0.2.0",
+    "port": 11054,
+    "domainLabel": "time lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\time-lab"
+  },
+  {
+    "name": "time-hub",
+    "version": "0.2.0",
+    "port": 11055,
+    "domainLabel": "time hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\time-hub"
+  },
+  {
+    "name": "checklist-studio",
+    "version": "0.2.0",
+    "port": 11056,
+    "domainLabel": "checklist studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\checklist-studio"
+  },
+  {
+    "name": "checklist-forge",
+    "version": "0.2.0",
+    "port": 11057,
+    "domainLabel": "checklist forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\checklist-forge"
+  },
+  {
+    "name": "checklist-ops",
+    "version": "0.2.0",
+    "port": 11058,
+    "domainLabel": "checklist ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\checklist-ops"
+  },
+  {
+    "name": "checklist-lab",
+    "version": "0.2.0",
+    "port": 11059,
+    "domainLabel": "checklist lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\checklist-lab"
+  },
+  {
+    "name": "checklist-hub",
+    "version": "0.2.0",
+    "port": 11060,
+    "domainLabel": "checklist hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\checklist-hub"
+  },
+  {
+    "name": "prompt-studio",
+    "version": "0.2.0",
+    "port": 11061,
+    "domainLabel": "prompt studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\prompt-studio"
+  },
+  {
+    "name": "prompt-forge",
+    "version": "0.2.0",
+    "port": 11062,
+    "domainLabel": "prompt forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\prompt-forge"
+  },
+  {
+    "name": "prompt-ops",
+    "version": "0.2.0",
+    "port": 11063,
+    "domainLabel": "prompt ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\prompt-ops"
+  },
+  {
+    "name": "prompt-lab",
+    "version": "0.2.0",
+    "port": 11064,
+    "domainLabel": "prompt lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\prompt-lab"
+  },
+  {
+    "name": "prompt-hub",
+    "version": "0.2.0",
+    "port": 11065,
+    "domainLabel": "prompt hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\prompt-hub"
+  },
+  {
+    "name": "workflow-studio",
+    "version": "0.2.0",
+    "port": 11066,
+    "domainLabel": "workflow studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\workflow-studio"
+  },
+  {
+    "name": "workflow-forge",
+    "version": "0.2.0",
+    "port": 11067,
+    "domainLabel": "workflow forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\workflow-forge"
+  },
+  {
+    "name": "workflow-ops",
+    "version": "0.2.0",
+    "port": 11068,
+    "domainLabel": "workflow ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\workflow-ops"
+  },
+  {
+    "name": "workflow-lab",
+    "version": "0.2.0",
+    "port": 11069,
+    "domainLabel": "workflow lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\workflow-lab"
+  },
+  {
+    "name": "workflow-hub",
+    "version": "0.2.0",
+    "port": 11070,
+    "domainLabel": "workflow hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\workflow-hub"
+  },
+  {
+    "name": "planning-studio",
+    "version": "0.2.0",
+    "port": 11071,
+    "domainLabel": "planning studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\planning-studio"
+  },
+  {
+    "name": "planning-forge",
+    "version": "0.2.0",
+    "port": 11072,
+    "domainLabel": "planning forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\planning-forge"
+  },
+  {
+    "name": "planning-ops",
+    "version": "0.2.0",
+    "port": 11073,
+    "domainLabel": "planning ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\planning-ops"
+  },
+  {
+    "name": "planning-lab",
+    "version": "0.2.0",
+    "port": 11074,
+    "domainLabel": "planning lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\planning-lab"
+  },
+  {
+    "name": "planning-hub",
+    "version": "0.2.0",
+    "port": 11075,
+    "domainLabel": "planning hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\planning-hub"
+  },
+  {
+    "name": "quality-studio",
+    "version": "0.2.0",
+    "port": 11076,
+    "domainLabel": "quality studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\quality-studio"
+  },
+  {
+    "name": "quality-forge",
+    "version": "0.2.0",
+    "port": 11077,
+    "domainLabel": "quality forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\quality-forge"
+  },
+  {
+    "name": "quality-ops",
+    "version": "0.2.0",
+    "port": 11078,
+    "domainLabel": "quality ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\quality-ops"
+  },
+  {
+    "name": "quality-lab",
+    "version": "0.2.0",
+    "port": 11079,
+    "domainLabel": "quality lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\quality-lab"
+  },
+  {
+    "name": "quality-hub",
+    "version": "0.2.0",
+    "port": 11080,
+    "domainLabel": "quality hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\quality-hub"
+  },
+  {
+    "name": "diff-studio",
+    "version": "0.2.0",
+    "port": 11081,
+    "domainLabel": "diff studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\diff-studio"
+  },
+  {
+    "name": "diff-forge",
+    "version": "0.2.0",
+    "port": 11082,
+    "domainLabel": "diff forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\diff-forge"
+  },
+  {
+    "name": "diff-ops",
+    "version": "0.2.0",
+    "port": 11083,
+    "domainLabel": "diff ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\diff-ops"
+  },
+  {
+    "name": "diff-lab",
+    "version": "0.2.0",
+    "port": 11084,
+    "domainLabel": "diff lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\diff-lab"
+  },
+  {
+    "name": "diff-hub",
+    "version": "0.2.0",
+    "port": 11085,
+    "domainLabel": "diff hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\diff-hub"
+  },
+  {
+    "name": "template-studio",
+    "version": "0.2.0",
+    "port": 11086,
+    "domainLabel": "template studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\template-studio"
+  },
+  {
+    "name": "template-forge",
+    "version": "0.2.0",
+    "port": 11087,
+    "domainLabel": "template forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\template-forge"
+  },
+  {
+    "name": "template-ops",
+    "version": "0.2.0",
+    "port": 11088,
+    "domainLabel": "template ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\template-ops"
+  },
+  {
+    "name": "template-lab",
+    "version": "0.2.0",
+    "port": 11089,
+    "domainLabel": "template lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\template-lab"
+  },
+  {
+    "name": "template-hub",
+    "version": "0.2.0",
+    "port": 11090,
+    "domainLabel": "template hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\template-hub"
+  },
+  {
+    "name": "notes-studio",
+    "version": "0.2.0",
+    "port": 11091,
+    "domainLabel": "notes studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\notes-studio"
+  },
+  {
+    "name": "notes-forge",
+    "version": "0.2.0",
+    "port": 11092,
+    "domainLabel": "notes forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\notes-forge"
+  },
+  {
+    "name": "notes-ops",
+    "version": "0.2.0",
+    "port": 11093,
+    "domainLabel": "notes ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\notes-ops"
+  },
+  {
+    "name": "notes-lab",
+    "version": "0.2.0",
+    "port": 11094,
+    "domainLabel": "notes lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\notes-lab"
+  },
+  {
+    "name": "notes-hub",
+    "version": "0.2.0",
+    "port": 11095,
+    "domainLabel": "notes hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\notes-hub"
+  },
+  {
+    "name": "summary-studio",
+    "version": "0.2.0",
+    "port": 11096,
+    "domainLabel": "summary studio",
+    "qualityPoints": [
+      "clarity",
+      "structure",
+      "reuse"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\summary-studio"
+  },
+  {
+    "name": "summary-forge",
+    "version": "0.2.0",
+    "port": 11097,
+    "domainLabel": "summary forge",
+    "qualityPoints": [
+      "reliability",
+      "consistency",
+      "observability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\summary-forge"
+  },
+  {
+    "name": "summary-ops",
+    "version": "0.2.0",
+    "port": 11098,
+    "domainLabel": "summary ops",
+    "qualityPoints": [
+      "speed",
+      "repeatability",
+      "safety"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\summary-ops"
+  },
+  {
+    "name": "summary-lab",
+    "version": "0.2.0",
+    "port": 11099,
+    "domainLabel": "summary lab",
+    "qualityPoints": [
+      "quality",
+      "coverage",
+      "precision"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\summary-lab"
+  },
+  {
+    "name": "summary-hub",
+    "version": "0.2.0",
+    "port": 11100,
+    "domainLabel": "summary hub",
+    "qualityPoints": [
+      "planning",
+      "traceability",
+      "composability"
+    ],
+    "dir": "C:\\Users\\justi\\mcp-servers\\summary-hub"
+  }
+]

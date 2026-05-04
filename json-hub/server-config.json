@@ -1,0 +1,11 @@
+{
+  "name": "json-hub",
+  "version": "0.2.0",
+  "port": 11010,
+  "domainLabel": "json hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

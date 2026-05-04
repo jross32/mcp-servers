@@ -1,0 +1,11 @@
+{
+  "name": "template-ops",
+  "version": "0.2.0",
+  "port": 11088,
+  "domainLabel": "template ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

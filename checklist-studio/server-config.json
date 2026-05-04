@@ -1,0 +1,11 @@
+{
+  "name": "checklist-studio",
+  "version": "0.2.0",
+  "port": 11056,
+  "domainLabel": "checklist studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

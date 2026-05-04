@@ -1,0 +1,11 @@
+{
+  "name": "html-ops",
+  "version": "0.2.0",
+  "port": 11023,
+  "domainLabel": "html ops",
+  "qualityPoints": [
+    "speed",
+    "repeatability",
+    "safety"
+  ]
+}

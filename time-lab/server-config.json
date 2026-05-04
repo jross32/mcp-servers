@@ -1,0 +1,11 @@
+{
+  "name": "time-lab",
+  "version": "0.2.0",
+  "port": 11054,
+  "domainLabel": "time lab",
+  "qualityPoints": [
+    "quality",
+    "coverage",
+    "precision"
+  ]
+}

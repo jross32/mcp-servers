@@ -1,0 +1,11 @@
+{
+  "name": "time-studio",
+  "version": "0.2.0",
+  "port": 11051,
+  "domainLabel": "time studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

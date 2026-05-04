@@ -1,0 +1,11 @@
+{
+  "name": "xml-studio",
+  "version": "0.2.0",
+  "port": 11026,
+  "domainLabel": "xml studio",
+  "qualityPoints": [
+    "clarity",
+    "structure",
+    "reuse"
+  ]
+}

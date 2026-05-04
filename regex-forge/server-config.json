@@ -1,0 +1,11 @@
+{
+  "name": "regex-forge",
+  "version": "0.2.0",
+  "port": 11032,
+  "domainLabel": "regex forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

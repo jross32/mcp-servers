@@ -1,0 +1,11 @@
+{
+  "name": "uuid-forge",
+  "version": "0.2.0",
+  "port": 11047,
+  "domainLabel": "uuid forge",
+  "qualityPoints": [
+    "reliability",
+    "consistency",
+    "observability"
+  ]
+}

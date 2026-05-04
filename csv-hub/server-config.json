@@ -1,0 +1,11 @@
+{
+  "name": "csv-hub",
+  "version": "0.2.0",
+  "port": 11015,
+  "domainLabel": "csv hub",
+  "qualityPoints": [
+    "planning",
+    "traceability",
+    "composability"
+  ]
+}

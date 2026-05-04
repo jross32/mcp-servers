@@ -1,0 +1,30 @@
+{
+  "startedAt": "2026-05-03T20:47:16.118Z",
+  "totalIterations": 1000,
+  "nextIteration": 1000,
+  "currentIteration": null,
+  "currentServer": null,
+  "currentStage": "done",
+  "completedCycles": 1000,
+  "fullVerifications": 10,
+  "lastHeartbeatAt": "2026-05-03T20:56:11.084Z",
+  "iterationStartedAtMs": 1777842222133,
+  "lastIteration": {
+    "iteration": 1000,
+    "server": "summary-hub",
+    "ok": true,
+    "profileFocus": "summaries, briefings, and executive condensation",
+    "modeStyle": "orchestration-oriented",
+    "workflowSteps": 4,
+    "backlogItems": 4,
+    "checkpointFocus": [
+      "retain essentials",
+      "compress safely",
+      "prioritize decisions"
+    ],
+    "promptCount": 2,
+    "reviewSignals": 3,
+    "completedSteps": 4,
+    "durationMs": 303
+  }
+}
