@@ -1,6 +1,6 @@
 {
   "name": "workflow-hub",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11070,
   "domainLabel": "workflow hub",
   "qualityPoints": [

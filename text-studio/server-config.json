@@ -1,6 +1,6 @@
 {
   "name": "text-studio",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11001,
   "domainLabel": "text studio",
   "qualityPoints": [

@@ -1,6 +1,6 @@
 {
   "name": "encoding-hub",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11045,
   "domainLabel": "encoding hub",
   "qualityPoints": [

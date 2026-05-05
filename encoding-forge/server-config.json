@@ -1,6 +1,6 @@
 {
   "name": "encoding-forge",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11042,
   "domainLabel": "encoding forge",
   "qualityPoints": [

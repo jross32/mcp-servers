@@ -1,6 +1,6 @@
 {
   "name": "regex-studio",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11031,
   "domainLabel": "regex studio",
   "qualityPoints": [

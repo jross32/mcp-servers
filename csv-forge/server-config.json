@@ -1,6 +1,6 @@
 {
   "name": "csv-forge",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11012,
   "domainLabel": "csv forge",
   "qualityPoints": [

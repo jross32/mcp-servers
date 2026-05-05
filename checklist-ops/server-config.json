@@ -1,6 +1,6 @@
 {
   "name": "checklist-ops",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11058,
   "domainLabel": "checklist ops",
   "qualityPoints": [

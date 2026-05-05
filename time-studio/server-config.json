@@ -1,6 +1,6 @@
 {
   "name": "time-studio",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11051,
   "domainLabel": "time studio",
   "qualityPoints": [

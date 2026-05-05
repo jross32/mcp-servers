@@ -1,6 +1,6 @@
 {
   "name": "encoding-ops",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11043,
   "domainLabel": "encoding ops",
   "qualityPoints": [

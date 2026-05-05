@@ -1,6 +1,6 @@
 {
   "name": "prompt-ops",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11063,
   "domainLabel": "prompt ops",
   "qualityPoints": [

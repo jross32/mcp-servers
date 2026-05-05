@@ -1,6 +1,6 @@
 {
   "name": "planning-lab",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "port": 11074,
   "domainLabel": "planning lab",
   "qualityPoints": [
