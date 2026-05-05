@@ -1,6 +1,6 @@
 {
   "name": "regex-hub",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "port": 11035,
   "domainLabel": "regex hub",
   "qualityPoints": [

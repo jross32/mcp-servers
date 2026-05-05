@@ -1,6 +1,6 @@
 {
   "name": "diff-studio",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "port": 11081,
   "domainLabel": "diff studio",
   "qualityPoints": [

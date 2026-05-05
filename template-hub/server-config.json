@@ -1,6 +1,6 @@
 {
   "name": "template-hub",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "port": 11090,
   "domainLabel": "template hub",
   "qualityPoints": [

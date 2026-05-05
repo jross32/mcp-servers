@@ -1,6 +1,6 @@
 {
   "name": "summary-forge",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "port": 11097,
   "domainLabel": "summary forge",
   "qualityPoints": [

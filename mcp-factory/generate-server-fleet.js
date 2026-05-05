@@ -8,7 +8,7 @@ const ROOT = 'C:/Users/justi/mcp-servers';
 const FACTORY = path.join(ROOT, 'mcp-factory');
 const START_PORT = 11001;
 const MAX_SERVERS = 100;
-const GENERATED_VERSION = '0.2.0';
+const GENERATED_VERSION = '1.0.0';
 
 const domains = [
   'text', 'json', 'csv', 'markdown', 'html', 'xml', 'regex', 'hashing', 'encoding', 'uuid',

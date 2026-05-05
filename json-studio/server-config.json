@@ -1,6 +1,6 @@
 {
   "name": "json-studio",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "port": 11006,
   "domainLabel": "json studio",
   "qualityPoints": [
